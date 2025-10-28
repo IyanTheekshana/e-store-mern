@@ -1,6 +1,7 @@
 # Node modules
 node_modules/
 
+.env
 
 # Logs
 logs
@@ -10,7 +11,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Runtime data
+# Runtime datagit
 pids
 *.pid
 *.seed
