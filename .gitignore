@@ -1,6 +1,7 @@
 # Node modules
 node_modules/
 
+
 # Logs
 logs
 *.log
@@ -80,3 +81,5 @@ temp/
 # OS files
 .DS_Store
 Thumbs.db
+
+
